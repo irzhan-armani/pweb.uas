@@ -5,7 +5,7 @@
         Barang
       </p>
       <p class="subtitle">
-        Menampilkan barang
+        Menampilkan barangg
       </p>
     </div>
   </section>
